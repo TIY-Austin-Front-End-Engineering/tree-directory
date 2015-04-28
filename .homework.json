@@ -1,0 +1,28 @@
+{
+    "name": "tree-directory",
+    "version": "0.0.1",
+    "title": "Tree Directory",
+    "description": "This assignment will test your knowledge of how paths, directories and tree data structures are related.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "Directories",
+        "JavaScript",
+        "Paths",
+        "Trees"
+    ],
+    "supplementalFiles": [
+        ".DS_Store",
+        ".homework.json",
+        "README.md",
+        "components/todo-list/src/a.js",
+        "components/input/d.json",
+        "components/input/src/component.js",
+        "components/input/src/errors.js",
+        "components/input/src/events.js",
+        "components/input/src/models.js",
+        "components/all/c.json",
+        "components/all/src/b.js"
+    ]
+}
