@@ -55,7 +55,7 @@ After completing this assignment, you should…
 	How many descendents does the input directory have?
 
 	###### Question 4:
-	How leaf nodes are there in the directory tree?
+	How many leaf nodes are there in the directory tree?
 
 	###### Question 5:
 	What is the document relative path from the `d.json` file to the `events.js` file?
