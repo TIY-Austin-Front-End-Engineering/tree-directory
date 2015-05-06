@@ -60,9 +60,6 @@ After completing this assignment, you should…
 	###### Question 5:
 	What is the document relative path from the `d.json` file to the `events.js` file?
 
-	###### Question 5:
-	What is the document relative path from the `README.md` file to the `events.js` file?
-
 	###### Question 6:
 	What is the document relative path from the `all` directory to the `models.js` file?
 
